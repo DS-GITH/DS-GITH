@@ -1,6 +1,3 @@
-<!-- Banner animado no topo -->
-<h1 align="center">Hi there! I'm <strong>David</strong> — aka <strong>DS</strong> 👋</h1>
-
 <p align="center">
   💻 Developer passionate about <strong>system development</strong><br>
   🌱 Currently learning and improving my full stack skills<br>
