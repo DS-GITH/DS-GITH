@@ -1,25 +1,68 @@
-<!-- GIF de apresentação no topo -->
-<!-- GIF de apresentação no topo -->
+<!-- Banner animado no topo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150px" alt="Coding" />
 </p>
 
-<h2 align="center">👋 Hi there! I'm <span style="color:#00BFFF">David</span> — also known as <strong>DS</strong></h2>
+<h1 align="center">Hi there! I'm <strong>David</strong> — aka <strong>DS</strong> 👋</h1>
 
 <p align="center">
-  💻 Aspiring developer focused on <strong>system development</strong><br>
-  🔍 Currently looking for opportunities to collaborate with <strong>companies in any field</strong><br>
+  💻 Developer passionate about <strong>system development</strong><br>
+  🌱 Currently learning and improving my full stack skills<br>
+  🤝 Looking to collaborate with companies and exciting projects<br>
+  🛹 Fun fact: I ride a skateboard in my free time!<br>
   📬 Reach me at: <a href="mailto:david.tecds@gmail.com">david.tecds@gmail.com</a><br>
-  👨‍💻 Pronouns: <strong>he/him</strong><br>
-  🛹 Fun fact: I skateboard during my free time!
+  👨‍💻 Pronouns: <strong>he/him</strong>
 </p>
 
+---
 
+### 🚀 Tech Stack & Tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,figma,github&perline=8" alt="My Skills" />
+  </a>
+</p>
 
+---
 
-### 🚀 Habilidades Técnicas
+### 📊 Skill Level
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,figma&perline=5)](https://skillicons.dev)
+| Technology          | Proficiency       |
+|---------------------|-------------------|
+| HTML / CSS          | ██████████░░ 80%  |
+| JavaScript / TS     | █████████░░░ 70%  |
+| React Native        | ███████░░░░░ 60%  |
+| PHP / MySQL         | ███████░░░░░ 60%  |
+| Figma / UI Design   | █████████░░░ 75%  |
 
+---
 
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DS-GITH&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-GITH&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+- Advanced React Native (Expo, TypeScript, FlatList, component architecture)
+- PHP with MySQL for system development
+- UI/UX design fundamentals with Figma
+
+---
+
+### 🌍 Let's Connect!
+
+<p align="center">
+  <a href="mailto:david.tecds@gmail.com"><img src="https://img.shields.io/badge/email-david.tecds@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" alt="developer working gif" />
+</p>
