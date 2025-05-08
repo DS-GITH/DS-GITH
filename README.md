@@ -7,6 +7,9 @@
   🤝 Looking to collaborate with companies and exciting projects<br>
   🛹 Fun fact: I ride a skateboard in my free time!<br>
   👨‍💻 Pronouns: <strong>he/him</strong>
+  <p align="center">
+  <a href="mailto:david.tecds@gmail.com"><img src="https://img.shields.io/badge/email-david.tecds@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
+</p>
 </p>
 
 ---
@@ -28,24 +31,4 @@
   </a>
 </p>
 
----
 
-### 🧠 Currently Learning
-
-- Advanced React Native (Expo, TypeScript, FlatList, component architecture)
-- PHP with MySQL for system development
-- UI/UX design fundamentals with Figma
-
----
-
-### 🌍 Let's Connect!
-
-<p align="center">
-  <a href="mailto:david.tecds@gmail.com"><img src="https://img.shields.io/badge/email-david.tecds@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" alt="developer working gif" />
-</p>
