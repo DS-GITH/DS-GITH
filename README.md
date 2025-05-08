@@ -1,16 +1,20 @@
 <!-- GIF de apresentação no topo -->
+<!-- GIF de apresentação no topo -->
 <p align="center">
-
-  <img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px" alt="coding gif](https://img.icons8.com/?size=100&id=Zh3EQfzwFUbT&format=png&color=000000)"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px" alt="coding gif"/>
 </p>
 
-## 👋 Hi there! I'm **David** — also known as **DS**
+<h2 align="center">👋 Hi there! I'm <span style="color:#00BFFF">David</span> — also known as <strong>DS</strong></h2>
 
-💻 Aspiring developer focused on **system development**  
-🔍 Currently looking for opportunities to collaborate with **companies in any field**  
-📬 Reach me at: [david.tecds@gmail.com](mailto:david.tecds@gmail.com)  
-👨‍💻 Pronouns: **he/him**  
-🛹 Fun fact: I skateboard during my free time!
+<p align="center">
+  💻 Aspiring developer focused on <strong>system development</strong><br>
+  🔍 Currently looking for opportunities to collaborate with <strong>companies in any field</strong><br>
+  📬 Reach me at: <a href="mailto:david.tecds@gmail.com">david.tecds@gmail.com</a><br>
+  👨‍💻 Pronouns: <strong>he/him</strong><br>
+  🛹 Fun fact: I skateboard during my free time!
+</p>
+
+
 
 
 
