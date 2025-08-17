@@ -54,9 +54,9 @@
 ## 🌍 Conecte-se comigo  
 
 <p align="center">
-  <a href="mailto:david.tecds@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-9c4cc8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=david.tecds@gmail.com&su=Contato%20via%20GitHub&body=Olá,%20David!">
+  <img src="https://img.shields.io/badge/-Gmail-9c4cc8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/david-santos-b61594292/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-9c4cc8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
