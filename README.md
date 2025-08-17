@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 DS – Desenvolvedor / Front-End </h1>
+<h1 align="center"> Desenvolvedor / Front-End 👨‍💻</h1>
 
 <p align="center">
   <i>Estagiário na <b>ITIA</b> | Freelancer na <b>Arco Digital</b> | Apaixonado por tecnologia e inovação</i>
@@ -40,11 +40,14 @@
 
 ## 🛠️ Tech Stack & Tools  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nodejs,php,mysql,java,figma,github,vue,laravel,vite,vscode,ps,gamemakerstudio&perline=9" alt="My Skills" />
-  </a>
-</p>
+| 🚀 Front-End | ⚙️ Back-End |
+|--------------|-------------|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,vite,vue,figma,sass,tailwind,vercel&perline=8" alt="Frontend Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,typescript,php,laravel,express,java,nodejs,prisma,postman&perline=8" alt="Backend Skills" /></a> |
+
+| 🛢️ DB's | 🎨 Misc |
+|----------|---------|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,firebase&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps,robloxstudio,gamemakerstudio,ai&perline=8" alt="Misc Skills" /></a> |
+
 
 ---
 
