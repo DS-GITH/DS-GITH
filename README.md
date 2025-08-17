@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nodejs,php,mysql,python,java,flutter,figma,github,vue,laravel,vite,vscode,qt,ps,maven,eclipse,gamemakerstudio&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nodejs,php,mysql,java,flutter,figma,github,vue,laravel,vite,vscode,qt,ps,eclipse,gamemakerstudio&perline=8" alt="My Skills" />
   </a>
 </p>
 
