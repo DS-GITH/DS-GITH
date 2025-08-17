@@ -21,7 +21,7 @@
 
 ---
 
-## 🎧 Música & Foco 
+## 🎧 Tocando Agora 
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3qjiaqieoft3upss4oldlvvga&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=9c4cc8&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
