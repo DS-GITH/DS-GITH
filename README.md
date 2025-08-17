@@ -11,6 +11,8 @@
 
 ---
 
+
+
 ### 🔥 GitHub Stats
 
 <p align="center">
@@ -27,6 +29,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nodejs,php,mysql,java,flutter,figma,github,vue,laravel,vite,vscode,qt,ps,eclipse,gamemakerstudio&perline=8" alt="My Skills" />
   </a>
 </p>
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3qjiaqieoft3upss4oldlvvga&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k3qjiaqieoft3upss4oldlvvga&cover_image=true&theme=default&show_offline=true&background_color=290533&interchange=true&bar_color_cover=false&bar_color=9c4cc8)]]
 
 
 
